@@ -5,6 +5,17 @@
       "expo-router"
     ],
     "name": "ExitCodeRed",
-    "slug": "ExitCodeRed"
+    "slug": "ExitCodeRed",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "cd652c41-d9b6-4c3d-8e03-a27baa738eeb"
+      }
+    },
+    "android": {
+      "package": "com.subhadeep051.ExitCodeRed"
+    }
   }
 }
